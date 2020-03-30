@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Code Challenge 3 Activities and intents</string>
+    <string name="text_one">Text One Header</string>
+    <string name="text_two">Text Two Header</string>
+    <string name="text_three">Text Three Header</string>
+    <string name="text_one_body">Text one body</string>
+    <string name="text_two_body">Text two body</string>
+    <string name="text_three_body">Text three body</string>
+</resources>
