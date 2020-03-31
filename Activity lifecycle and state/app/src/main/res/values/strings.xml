@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity lifecycle and state</string>
+    <string name="toast_message">Hello Toast!</string>
+</resources>

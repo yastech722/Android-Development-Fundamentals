@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Code Challenge 4 Activity lifecycle and state</string>
+    <string name="item_one">Rice</string>
+    <string name="item_two">Beans</string>
+    <string name="item_three">Spaghetti</string>
+    <string name="item_four">Apple</string>
+    <string name="item_five">Banana</string>
+    <string name="item_six">Mango</string>
+</resources>
